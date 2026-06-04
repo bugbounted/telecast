@@ -56,9 +56,9 @@ export const SITE_CONSTANTS: SiteConstantConfig = {
   // Default locale for the site (e.g. en, ja, zh).
   locale: 'en',
   // Timezone for date formatting (e.g. UTC, America/New_York).
-  timezone: 'UTC',
+  timezone: 'Asia/Tehran',
   // Canonical base URL of the published site.
-  siteUrl: 'https://tg.toshiki.dev',
+  siteUrl: '',
   // Telegram host used for channel fetches and public links (e.g. t.me).
   telegramHost: 't.me',
   // Proxy base URL for Telegram-origin media. Leave empty unless you need a runtime proxy.
@@ -76,7 +76,7 @@ export const SITE_CONSTANTS: SiteConstantConfig = {
   // Whether to enable Progressive Web App (PWA) support (service worker, manifest, offline caching).
   pwa: true,
   // Main website URL for the author/org.
-  website: 'https://toshiki.dev',
+  website: '',
   // Twitter/X username only (no URL prefix).
   twitter: 'andatoshiki',
   // GitHub username only (no URL prefix).
