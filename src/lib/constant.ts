@@ -52,7 +52,7 @@ interface SiteConstantConfig {
 
 export const SITE_CONSTANTS: SiteConstantConfig = {
   // Telegram channel username (without @) to mirror content from.
-  channel: 'toshikidev',
+  channel: 'Daily_Writeups',
   // Default locale for the site (e.g. en, ja, zh).
   locale: 'en',
   // Timezone for date formatting (e.g. UTC, America/New_York).
