@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Writeups</title>
+    <description>Daily Bug Bounty / Cybersecurity Writeups Source Code : https://github.com/Spix0r/writeup-miner</description>
+    <link>https://tg.toshiki.dev/</link>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133793</guid>
+        <link>https://tg.toshiki.dev/posts/133793</link>
+        <title>⤷ Title: Building and Attacking My Own Active Directory Lab════════════════════════𐀪 Author: Pelda Petekkaya════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:34:45 GMT════════════════════════⌗ Tags: #red_team #cybersecurity #ethical_hacking #penetration_testing #active_directory</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:49 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@peldapetekkayaa/building-and-attacking-my-own-active-directory-lab-6cea2d381bef?source=rss------penetration_testing-5" target="_blank" rel="noopener noreferrer" title="Building and Attacking My Own Active Directory Lab"><b>Building and Attacking My Own Active Directory Lab</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Pelda Petekkaya<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:34:45 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23red_team" title="#red_team">#red_team</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23ethical_hacking" title="#ethical_hacking">#ethical_hacking</a> <a href="/search?q=%23penetration_testing" title="#penetration_testing">#penetration_testing</a> <a href="/search?q=%23active_directory" title="#active_directory">#active_directory</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@peldapetekkayaa/building-and-attacking-my-own-active-directory-lab-6cea2d381bef?source=rss------penetration_testing-5" target="_blank" rel="noopener noreferrer" title="What building and attacking the same Active Directory lab taught me">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Building and Attacking My Own Active Directory Lab" src="/cdn-cgi/image/format=auto,quality=85/media/2d2ed61fecd6c428e835474424379c64.jpg" loading="lazy">
+  <div class="link_preview_title">Building and Attacking My Own Active Directory Lab</div>
+  <div class="link_preview_description">What building and attacking the same Active Directory lab taught me</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133792</guid>
+        <link>https://tg.toshiki.dev/posts/133792</link>
+        <title>⤷ Title: Operating Systems: Introduction Walkthrough | OS Basics, Kernel Space and User Space════════════════════════𐀪 Author: 5um1t0x════════════════════════ⴵ Time: Sat, 26 Sep 2026 18:50:43 GMT════════════════════════⌗ Tags: #cybersecurity #operating_systems #infosec #tryhackme #linux</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:46 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@5um1t0x/operating-systems-introduction-walkthrough-os-basics-kernel-space-and-user-space-3847015aaa7b?source=rss------infosec-5" target="_blank" rel="noopener noreferrer" title="Operating Systems: Introduction Walkthrough | OS Basics, Kernel Space and User Space"><b>Operating Systems: Introduction Walkthrough | OS Basics, Kernel Space and User Space</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>5um1t0x<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 18:50:43 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23operating_systems" title="#operating_systems">#operating_systems</a> <a href="/search?q=%23infosec" title="#infosec">#infosec</a> <a href="/search?q=%23tryhackme" title="#tryhackme">#tryhackme</a> <a href="/search?q=%23linux" title="#linux">#linux</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@5um1t0x/operating-systems-introduction-walkthrough-os-basics-kernel-space-and-user-space-3847015aaa7b?source=rss------infosec-5" target="_blank" rel="noopener noreferrer" title="Operating systems are something we use every day without always thinking about them. Whether it is Windows on a laptop, Linux on a server…">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Operating Systems: Introduction Walkthrough | OS Basics, Kernel Space and User Space" src="/cdn-cgi/image/format=auto,quality=85/media/b4af44946bd66ebb9d33e240e6561b79.jpg" loading="lazy">
+  <div class="link_preview_title">Operating Systems: Introduction Walkthrough | OS Basics, Kernel Space and User Space</div>
+  <div class="link_preview_description">Operating systems are something we use every day without always thinking about them. Whether it is Windows on a laptop, Linux on a server…</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133791</guid>
+        <link>https://tg.toshiki.dev/posts/133791</link>
+        <title>⤷ Title: “Quishing”: The Scam Hiding in a Square You Trust Without Thinking════════════════════════𐀪 Author: vydhi════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:29:08 GMT════════════════════════⌗ Tags: #scam #privacy #cybersecurity #phishing #infosec</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:42 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://meetcyber.net/quishing-the-scam-hiding-in-a-square-you-trust-without-thinking-382ffdc93470?source=rss------infosec-5" target="_blank" rel="noopener noreferrer" title="“Quishing”: The Scam Hiding in a Square You Trust Without Thinking"><b>“Quishing”: The Scam Hiding in a Square You Trust Without Thinking</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>vydhi<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:29:08 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23scam" title="#scam">#scam</a> <a href="/search?q=%23privacy" title="#privacy">#privacy</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23phishing" title="#phishing">#phishing</a> <a href="/search?q=%23infosec" title="#infosec">#infosec</a><a class="tgme_widget_message_link_preview" href="https://meetcyber.net/quishing-the-scam-hiding-in-a-square-you-trust-without-thinking-382ffdc93470?source=rss------infosec-5" target="_blank" rel="noopener noreferrer" title="You’d never click a random link from a stranger. You’ll scan almost any QR code without a second thought.">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="“Quishing”: The Scam Hiding in a Square You Trust Without Thinking" src="/cdn-cgi/image/format=auto,quality=85/media/64ebaf384552af3c5874ed8d19aacc08.jpg" loading="lazy">
+  <div class="link_preview_title">“Quishing”: The Scam Hiding in a Square You Trust Without Thinking</div>
+  <div class="link_preview_description">You’d never click a random link from a stranger. You’ll scan almost any QR code without a second thought.</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133790</guid>
+        <link>https://tg.toshiki.dev/posts/133790</link>
+        <title>⤷ Title: What drove you to choose hacking over other possible paths out of hardship?════════════════════════𐀪 Author: Zday════════════════════════ⴵ Time: Sat, 26 Sep 2026 17:56:06 GMT════════════════════════⌗ Tags: #hacking #api #true_crime #hackerone #internet</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:39 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://zdayhtpx.medium.com/what-drove-you-to-choose-hacking-over-other-possible-paths-out-of-hardship-0d55d5ebc1dd?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="What drove you to choose hacking over other possible paths out of hardship?"><b>What drove you to choose hacking over other possible paths out of hardship?</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Zday<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 17:56:06 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23hacking" title="#hacking">#hacking</a> <a href="/search?q=%23api" title="#api">#api</a> <a href="/search?q=%23true_crime" title="#true_crime">#true_crime</a> <a href="/search?q=%23hackerone" title="#hackerone">#hackerone</a> <a href="/search?q=%23internet" title="#internet">#internet</a><a class="tgme_widget_message_link_preview" href="https://zdayhtpx.medium.com/what-drove-you-to-choose-hacking-over-other-possible-paths-out-of-hardship-0d55d5ebc1dd?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="The simplest answer to this question was that it was a sense of inferiority that brought me this far.">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="What drove you to choose hacking over other possible paths out of hardship?" src="/cdn-cgi/image/format=auto,quality=85/media/76e7a1df405a1617a641df5263c86135.jpg" loading="lazy">
+  <div class="link_preview_title">What drove you to choose hacking over other possible paths out of hardship?</div>
+  <div class="link_preview_description">The simplest answer to this question was that it was a sense of inferiority that brought me this far.</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133789</guid>
+        <link>https://tg.toshiki.dev/posts/133789</link>
+        <title>⤷ Title: Hacker Camp: Confirming My IoT Obsession at BruCon════════════════════════𐀪 Author: ShadowForge════════════════════════ⴵ Time: Sat, 26 Sep 2026 18:15:45 GMT════════════════════════⌗ Tags: #ethical_hacking #conference #iot #hardware #hacking</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:35 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@originalshadowforge/hacker-camp-confirming-my-iot-obsession-at-brucon-0f2e4ccb8c22?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="Hacker Camp: Confirming My IoT Obsession at BruCon"><b>Hacker Camp: Confirming My IoT Obsession at BruCon</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>ShadowForge<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 18:15:45 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23ethical_hacking" title="#ethical_hacking">#ethical_hacking</a> <a href="/search?q=%23conference" title="#conference">#conference</a> <a href="/search?q=%23iot" title="#iot">#iot</a> <a href="/search?q=%23hardware" title="#hardware">#hardware</a> <a href="/search?q=%23hacking" title="#hacking">#hacking</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@originalshadowforge/hacker-camp-confirming-my-iot-obsession-at-brucon-0f2e4ccb8c22?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="The last few days I attended BruCon 0x12. Not just the conference like last year, but also three whole training days together with Roman…">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Hacker Camp: Confirming My IoT Obsession at BruCon" src="/cdn-cgi/image/format=auto,quality=85/media/ad318ac779f1b2893dbe702c965bcfa7.jpg" loading="lazy">
+  <div class="link_preview_title">Hacker Camp: Confirming My IoT Obsession at BruCon</div>
+  <div class="link_preview_description">The last few days I attended BruCon 0x12. Not just the conference like last year, but also three whole training days together with Roman…</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133788</guid>
+        <link>https://tg.toshiki.dev/posts/133788</link>
+        <title>⤷ Title: What to Do After Cyber Fraud in India════════════════════════𐀪 Author: Drivesyncinfotechpvtltd════════════════════════ⴵ Time: Sat, 26 Sep 2026 18:31:01 GMT════════════════════════⌗ Tags: #cyber_security_awareness #cyberattack #cybersecurity #hacking</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:32 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@drivesyncinfotechpvtltd/what-to-do-after-cyber-fraud-in-india-eb2d839536ee?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="What to Do After Cyber Fraud in India"><b>What to Do After Cyber Fraud in India</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Drivesyncinfotechpvtltd<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 18:31:01 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23cyber_security_awareness" title="#cyber_security_awareness">#cyber_security_awareness</a> <a href="/search?q=%23cyberattack" title="#cyberattack">#cyberattack</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23hacking" title="#hacking">#hacking</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@drivesyncinfotechpvtltd/what-to-do-after-cyber-fraud-in-india-eb2d839536ee?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="What to Do in the First 60 Minutes After a Cyber Fraud ?">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="What to Do After Cyber Fraud in India" src="/cdn-cgi/image/format=auto,quality=85/media/bd0e5ee32b3c2017903b5fe6dc2e7d87.jpg" loading="lazy">
+  <div class="link_preview_title">What to Do After Cyber Fraud in India</div>
+  <div class="link_preview_description">What to Do in the First 60 Minutes After a Cyber Fraud ?</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133787</guid>
+        <link>https://tg.toshiki.dev/posts/133787</link>
+        <title>⤷ Title: Can AI Find Vulnerabilities Better Than Humans?════════════════════════𐀪 Author: Sushant Bhardwaj════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:08:40 GMT════════════════════════⌗ Tags: #cybersecurity #artificial_intelligence #hacking #information_security #technology</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:29 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@sushant.bhardwaj.9th.c/can-ai-find-vulnerabilities-better-than-humans-f76a90c5a4aa?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="Can AI Find Vulnerabilities Better Than Humans?"><b>Can AI Find Vulnerabilities Better Than Humans?</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Sushant Bhardwaj<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:08:40 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23artificial_intelligence" title="#artificial_intelligence">#artificial_intelligence</a> <a href="/search?q=%23hacking" title="#hacking">#hacking</a> <a href="/search?q=%23information_security" title="#information_security">#information_security</a> <a href="/search?q=%23technology" title="#technology">#technology</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@sushant.bhardwaj.9th.c/can-ai-find-vulnerabilities-better-than-humans-f76a90c5a4aa?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="What Real-World Security Research Has Actually Shown">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Can AI Find Vulnerabilities Better Than Humans?" src="/cdn-cgi/image/format=auto,quality=85/media/a6ddd85a95ba0d445465aef00fb85139.jpg" loading="lazy">
+  <div class="link_preview_title">Can AI Find Vulnerabilities Better Than Humans?</div>
+  <div class="link_preview_description">What Real-World Security Research Has Actually Shown</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133786</guid>
+        <link>https://tg.toshiki.dev/posts/133786</link>
+        <title>⤷ Title:  Mirai: The Botnet That Used Smart Devices to Break the Internet════════════════════════𐀪 Author: BENSEC════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:46:51 GMT════════════════════════⌗ Tags: #iot #technology #hacking #cybersecurity #mirai_botnet</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:25 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@bensec/mirai-the-botnet-that-used-smart-devices-to-break-the-internet-0d9a51b934e6?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title=" Mirai: The Botnet That Used Smart Devices to Break the Internet"><b> Mirai: The Botnet That Used Smart Devices to Break the Internet</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>BENSEC<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:46:51 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23iot" title="#iot">#iot</a> <a href="/search?q=%23technology" title="#technology">#technology</a> <a href="/search?q=%23hacking" title="#hacking">#hacking</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23mirai_botnet" title="#mirai_botnet">#mirai_botnet</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@bensec/mirai-the-botnet-that-used-smart-devices-to-break-the-internet-0d9a51b934e6?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="What if thousands of cameras, routers, and DVRs in people’s homes suddenly became an army controlled by hackers?">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="📡 Mirai: The Botnet That Used Smart Devices to Break the Internet" src="/cdn-cgi/image/format=auto,quality=85/media/2268ef5403f8327f7cf5d461a50df518.jpg" loading="lazy">
+  <div class="link_preview_title"><i class="emoji"><b>📡</b></i> Mirai: The Botnet That Used Smart Devices to Break the Internet</div>
+  <div class="link_preview_description">What if thousands of cameras, routers, and DVRs in people’s homes suddenly became an army controlled by hackers?</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133785</guid>
+        <link>https://tg.toshiki.dev/posts/133785</link>
+        <title>⤷ Title: Chained Trust: A Full Compromise of HTB Hercules via LDAP Injection, Credential Harvesting, and…════════════════════════𐀪 Author: Rafid Ahmed════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:47:37 GMT════════════════════════⌗ Tags: #active_directory #hacking #hackthebox_walkthrough #web_attack</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:22 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@rafidahmed/chained-trust-a-full-compromise-of-htb-hercules-via-ldap-injection-credential-harvesting-and-c81a033c5dcc?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="Chained Trust: A Full Compromise of HTB Hercules via LDAP Injection, Credential Harvesting, and…"><b>Chained Trust: A Full Compromise of HTB Hercules via LDAP Injection, Credential Harvesting, and…</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Rafid Ahmed<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:47:37 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23active_directory" title="#active_directory">#active_directory</a> <a href="/search?q=%23hacking" title="#hacking">#hacking</a> <a href="/search?q=%23hackthebox_walkthrough" title="#hackthebox_walkthrough">#hackthebox_walkthrough</a> <a href="/search?q=%23web_attack" title="#web_attack">#web_attack</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@rafidahmed/chained-trust-a-full-compromise-of-htb-hercules-via-ldap-injection-credential-harvesting-and-c81a033c5dcc?source=rss------hacking-5" target="_blank" rel="noopener noreferrer" title="1. Initial Access">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Chained Trust: A Full Compromise of HTB Hercules via LDAP Injection, Credential Harvesting, and Active Directory ACL Abuse" src="/cdn-cgi/image/format=auto,quality=85/media/c147cb3f97d51bf769c2335db38da380.jpg" loading="lazy">
+  <div class="link_preview_title">Chained Trust: A Full Compromise of HTB Hercules via LDAP Injection, Credential Harvesting, and Active Directory ACL Abuse</div>
+  <div class="link_preview_description">1. Initial Access</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133784</guid>
+        <link>https://tg.toshiki.dev/posts/133784</link>
+        <title>⤷ Title: BAC to Full Takeover: How I Escalated Privileges and Kicked Out the Real Owner════════════════════════𐀪 Author: MD Mainul Islam Siam════════════════════════ⴵ Time: Sat, 26 Sep 2026 18:05:35 GMT════════════════════════⌗ Tags: #web_security #broken_access_control #cybersecurity #bug_bounty #privilege_escalation</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:18 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@mdmainulislamsiam/bac-to-full-takeover-how-i-escalated-privileges-and-kicked-out-the-real-owner-4dbc36bef7e0?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="BAC to Full Takeover: How I Escalated Privileges and Kicked Out the Real Owner"><b>BAC to Full Takeover: How I Escalated Privileges and Kicked Out the Real Owner</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>MD Mainul Islam Siam<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 18:05:35 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23web_security" title="#web_security">#web_security</a> <a href="/search?q=%23broken_access_control" title="#broken_access_control">#broken_access_control</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23bug_bounty" title="#bug_bounty">#bug_bounty</a> <a href="/search?q=%23privilege_escalation" title="#privilege_escalation">#privilege_escalation</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@mdmainulislamsiam/bac-to-full-takeover-how-i-escalated-privileges-and-kicked-out-the-real-owner-4dbc36bef7e0?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="👨‍💻 Meet the Author">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="BAC to Full Takeover: How I Escalated Privileges and Kicked Out the Real Owner💥" src="/cdn-cgi/image/format=auto,quality=85/media/d4cda9c18775fe7c92d5d88010652e00.jpg" loading="lazy">
+  <div class="link_preview_title">BAC to Full Takeover: How I Escalated Privileges and Kicked Out the Real Owner<i class="emoji"><b>💥</b></i></div>
+  <div class="link_preview_description"><i class="emoji"><b>👨‍💻</b></i> Meet the Author</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133783</guid>
+        <link>https://tg.toshiki.dev/posts/133783</link>
+        <title>⤷ Title: Why 90% of Bug Bounty Beginners Quit Before Their First Valid Report (And How to Not Be One of…════════════════════════𐀪 Author: Bugitrix════════════════════════ⴵ Time: Sat, 26 Sep 2026 18:19:54 GMT════════════════════════⌗ Tags: #cybersecurity #bug_hunting #bug_bounty_writeup #bug_bounty_tips #bug_bounty</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:15 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@bugitrix/why-90-of-bug-bounty-beginners-quit-before-their-first-valid-report-and-how-to-not-be-one-of-879dd5896562?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Why 90% of Bug Bounty Beginners Quit Before Their First Valid Report (And How to Not Be One of…"><b>Why 90% of Bug Bounty Beginners Quit Before Their First Valid Report (And How to Not Be One of…</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Bugitrix<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 18:19:54 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23bug_hunting" title="#bug_hunting">#bug_hunting</a> <a href="/search?q=%23bug_bounty_writeup" title="#bug_bounty_writeup">#bug_bounty_writeup</a> <a href="/search?q=%23bug_bounty_tips" title="#bug_bounty_tips">#bug_bounty_tips</a> <a href="/search?q=%23bug_bounty" title="#bug_bounty">#bug_bounty</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@bugitrix/why-90-of-bug-bounty-beginners-quit-before-their-first-valid-report-and-how-to-not-be-one-of-879dd5896562?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Here’s an uncomfortable truth about bug bounty hunting: most people who start never submit a single valid report.">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Why 90% of Bug Bounty Beginners Quit Before Their First Valid Report (And How to Not Be One of Them)" src="/cdn-cgi/image/format=auto,quality=85/media/528cb90627dcd0f130e80a9f7fd6d07c.jpg" loading="lazy">
+  <div class="link_preview_title">Why 90% of Bug Bounty Beginners Quit Before Their First Valid Report (And How to Not Be One of Them)</div>
+  <div class="link_preview_description">Here’s an uncomfortable truth about bug bounty hunting: most people who start never submit a single valid report.</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133782</guid>
+        <link>https://tg.toshiki.dev/posts/133782</link>
+        <title>⤷ Title: Real World XSS Escalation &amp; Impact════════════════════════𐀪 Author: Viodex════════════════════════ⴵ Time: Sat, 26 Sep 2026 18:34:44 GMT════════════════════════⌗ Tags: #bug_bounty #cybersecurity #xss_attack #hacking</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:12 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@viodex02/real-world-xss-escalation-impact-1c5f5e17240e?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Real World XSS Escalation &amp; Impact"><b>Real World XSS Escalation &amp; Impact</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Viodex<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 18:34:44 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23bug_bounty" title="#bug_bounty">#bug_bounty</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23xss_attack" title="#xss_attack">#xss_attack</a> <a href="/search?q=%23hacking" title="#hacking">#hacking</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@viodex02/real-world-xss-escalation-impact-1c5f5e17240e?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Real World XSS Escalation &amp; Impact">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Real World XSS Escalation &amp; Impact" src="/cdn-cgi/image/format=auto,quality=85/media/e0570ad36d24727f246a076ca52815a0.jpg" loading="lazy">
+  <div class="link_preview_title">Real World XSS Escalation &amp; Impact</div>
+  <div class="link_preview_description">Real World XSS Escalation &amp; Impact</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133781</guid>
+        <link>https://tg.toshiki.dev/posts/133781</link>
+        <title>⤷ Title: Breaking the Silence: Blind SQL Injection, WAF Bypass, and SQLite════════════════════════𐀪 Author: Neel Chauhan════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:00:35 GMT════════════════════════⌗ Tags: #sql_injection #bug_bounty #waf_bypass #penetration_testing</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:08 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@neel.chauhan09/breaking-the-silence-blind-sql-injection-waf-bypass-and-sqlite-f7ddf7c02426?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Breaking the Silence: Blind SQL Injection, WAF Bypass, and SQLite"><b>Breaking the Silence: Blind SQL Injection, WAF Bypass, and SQLite</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Neel Chauhan<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:00:35 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23sql_injection" title="#sql_injection">#sql_injection</a> <a href="/search?q=%23bug_bounty" title="#bug_bounty">#bug_bounty</a> <a href="/search?q=%23waf_bypass" title="#waf_bypass">#waf_bypass</a> <a href="/search?q=%23penetration_testing" title="#penetration_testing">#penetration_testing</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@neel.chauhan09/breaking-the-silence-blind-sql-injection-waf-bypass-and-sqlite-f7ddf7c02426?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="How a simple analytics filter became a Boolean oracle for database extraction">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Breaking the Silence: Blind SQL Injection, WAF Bypass, and SQLite" src="/cdn-cgi/image/format=auto,quality=85/media/073bcf01179f2cb4551835b7c1297dc5.jpg" loading="lazy">
+  <div class="link_preview_title">Breaking the Silence: Blind SQL Injection, WAF Bypass, and SQLite</div>
+  <div class="link_preview_description">How a simple analytics filter became a Boolean oracle for database extraction</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133780</guid>
+        <link>https://tg.toshiki.dev/posts/133780</link>
+        <title>⤷ Title: Critical Server-Side Template Injection (SSTI) to Remote Code Execution in Enterprise Reporting…════════════════════════𐀪 Author: T4nv1════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:21:01 GMT════════════════════════⌗ Tags: #bug_bounty #cybersecurity #hacking #bug_bounty_tips #security</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:05 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@t4nv1/critical-server-side-template-injection-ssti-to-remote-code-execution-in-enterprise-reporting-e0d3d80f0ec3?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Critical Server-Side Template Injection (SSTI) to Remote Code Execution in Enterprise Reporting…"><b>Critical Server-Side Template Injection (SSTI) to Remote Code Execution in Enterprise Reporting…</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>T4nv1<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:21:01 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23bug_bounty" title="#bug_bounty">#bug_bounty</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23hacking" title="#hacking">#hacking</a> <a href="/search?q=%23bug_bounty_tips" title="#bug_bounty_tips">#bug_bounty_tips</a> <a href="/search?q=%23security" title="#security">#security</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@t4nv1/critical-server-side-template-injection-ssti-to-remote-code-execution-in-enterprise-reporting-e0d3d80f0ec3?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Executive Summary">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Critical Server-Side Template Injection (SSTI) to Remote Code Execution in Enterprise Reporting Engine" src="/cdn-cgi/image/format=auto,quality=85/media/380f66abaa50b6fe9b25e184a5000783.jpg" loading="lazy">
+  <div class="link_preview_title">Critical Server-Side Template Injection (SSTI) to Remote Code Execution in Enterprise Reporting Engine</div>
+  <div class="link_preview_description">Executive Summary</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133779</guid>
+        <link>https://tg.toshiki.dev/posts/133779</link>
+        <title>⤷ Title:  Strategies for Passing CompTIA CySA+: My Practical Roadmap to Becoming a Better Security Analyst════════════════════════𐀪 Author: Mukilan Baskaran════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:41:08 GMT════════════════════════⌗ Tags: #comptia #infosec #cybersecurity #bug_bounty #information_security</title>
+        <pubDate>Sat, 26 Sep 2026 20:04:01 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://mukibas37.medium.com/strategies-for-passing-comptia-cysa-my-practical-roadmap-to-becoming-a-better-security-analyst-50e622b917a8?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title=" Strategies for Passing CompTIA CySA+: My Practical Roadmap to Becoming a Better Security Analyst"><b> Strategies for Passing CompTIA CySA+: My Practical Roadmap to Becoming a Better Security Analyst</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Mukilan Baskaran<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:41:08 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23comptia" title="#comptia">#comptia</a> <a href="/search?q=%23infosec" title="#infosec">#infosec</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23bug_bounty" title="#bug_bounty">#bug_bounty</a> <a href="/search?q=%23information_security" title="#information_security">#information_security</a><a class="tgme_widget_message_link_preview" href="https://mukibas37.medium.com/strategies-for-passing-comptia-cysa-my-practical-roadmap-to-becoming-a-better-security-analyst-50e622b917a8?source=rss------bug_bounty-5" target="_blank" rel="noopener noreferrer" title="Cybersecurity is not just about knowing how to use security tools.">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="🚀 Strategies for Passing CompTIA CySA+: My Practical Roadmap to Becoming a Better Security Analyst" src="/cdn-cgi/image/format=auto,quality=85/media/26b21c0ee9bfa82d20cb32f6986a1c68.jpg" loading="lazy">
+  <div class="link_preview_title"><i class="emoji"><b>🚀</b></i> Strategies for Passing CompTIA CySA+: My Practical Roadmap to Becoming a Better Security Analyst</div>
+  <div class="link_preview_description">Cybersecurity is not just about knowing how to use security tools.</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133778</guid>
+        <link>https://tg.toshiki.dev/posts/133778</link>
+        <title>⤷ Title: Placeholder Domains Used by 349 AI Agent Skills Found Redirecting to Scams════════════════════════𐀪 Author: Deeba Ahmed════════════════════════ⴵ Time: Sat, 26 Sep 2026 19:02:54 +0000════════════════════════⌗ Tags: #Security #Artificial Intelligence #Scams and Fraud #AI Agents #AI Tools #BBC #Cyber Crime #Cybersecurity #Fraud #GitHub #macOS #Manifold #Placeholder Domains #Scam</title>
+        <pubDate>Sat, 26 Sep 2026 20:03:58 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://hackread.com/placeholder-domains-ai-agent-skills-redirect-scams/" target="_blank" rel="noopener noreferrer" title="Placeholder Domains Used by 349 AI Agent Skills Found Redirecting to Scams"><b>Placeholder Domains Used by 349 AI Agent Skills Found Redirecting to Scams</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Deeba Ahmed<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 19:02:54 +0000<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23Security" title="#Security">#Security</a> <a href="/search?q=%23Artificial" title="#Artificial">#Artificial</a> Intelligence <a href="/search?q=%23Scams" title="#Scams">#Scams</a> and Fraud <a href="/search?q=%23AI" title="#AI">#AI</a> Agents <a href="/search?q=%23AI" title="#AI">#AI</a> Tools <a href="/search?q=%23BBC" title="#BBC">#BBC</a> <a href="/search?q=%23Cyber" title="#Cyber">#Cyber</a> Crime <a href="/search?q=%23Cybersecurity" title="#Cybersecurity">#Cybersecurity</a> <a href="/search?q=%23Fraud" title="#Fraud">#Fraud</a> <a href="/search?q=%23GitHub" title="#GitHub">#GitHub</a> <a href="/search?q=%23macOS" title="#macOS">#macOS</a> <a href="/search?q=%23Manifold" title="#Manifold">#Manifold</a> <a href="/search?q=%23Placeholder" title="#Placeholder">#Placeholder</a> Domains <a href="/search?q=%23Scam" title="#Scam">#Scam</a><a class="tgme_widget_message_link_preview" href="https://hackread.com/placeholder-domains-ai-agent-skills-redirect-scams" target="_blank" rel="noopener noreferrer" title="Manifold Security found placeholder domains cited in 359,000 GitHub files and 349 AI agent skills serving cloaked scam redirects observed on macOS.">
+  
+  <div class="link_preview_site_name accent_color">Hackread</div>
+  <img class="link_preview_image" alt="Placeholder Domains Used by 349 AI Agent Skills Found Redirecting to Scams" src="/cdn-cgi/image/format=auto,quality=85/media/fb78a9199b83a93b876ac91661afb1e4.jpg" loading="lazy">
+  <div class="link_preview_title">Placeholder Domains Used by 349 AI Agent Skills Found Redirecting to Scams</div>
+  <div class="link_preview_description">Manifold Security found placeholder domains cited in 359,000 GitHub files and 349 AI agent skills serving cloaked scam redirects observed on macOS.</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133777</guid>
+        <link>https://tg.toshiki.dev/posts/133777</link>
+        <title>⤷ Title: Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials════════════════════════𐀪 Author: Unknown════════════════════════ⴵ Time: Sat, 26 Sep 2026 23:52:52 +0530════════════════════════⌗ Tags: No_Tags</title>
+        <pubDate>Sat, 26 Sep 2026 20:03:55 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html" target="_blank" rel="noopener noreferrer" title="Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials"><b>Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Unknown<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 23:52:52 +0530<br>════════════════════════<br>⌗ <b>Tags: </b>No_Tags]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133776</guid>
+        <link>https://tg.toshiki.dev/posts/133776</link>
+        <title>⤷ Title: Cybersecurity Journey — Week 1: The CIA Triad &amp; My First Hands-On Steps════════════════════════𐀪 Author: Neha Khan • AI &amp; Software Engineer════════════════════════ⴵ Time: Sat, 26 Sep 2026 16:16:38 GMT════════════════════════⌗ Tags: #offensive_security #cybersecurity #career_development #ethical_hacking #programming</title>
+        <pubDate>Sat, 26 Sep 2026 18:04:36 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://meetcyber.net/cybersecurity-journey-week-1-the-cia-triad-my-first-hands-on-steps-e3bf7f437785?source=rss------ethical_hacking-5" target="_blank" rel="noopener noreferrer" title="Cybersecurity Journey — Week 1: The CIA Triad &amp; My First Hands-On Steps"><b>Cybersecurity Journey — Week 1: The CIA Triad &amp; My First Hands-On Steps</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Neha Khan • AI &amp; Software Engineer<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 16:16:38 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23offensive_security" title="#offensive_security">#offensive_security</a> <a href="/search?q=%23cybersecurity" title="#cybersecurity">#cybersecurity</a> <a href="/search?q=%23career_development" title="#career_development">#career_development</a> <a href="/search?q=%23ethical_hacking" title="#ethical_hacking">#ethical_hacking</a> <a href="/search?q=%23programming" title="#programming">#programming</a><a class="tgme_widget_message_link_preview" href="https://meetcyber.net/cybersecurity-journey-week-1-the-cia-triad-my-first-hands-on-steps-e3bf7f437785?source=rss------ethical_hacking-5" target="_blank" rel="noopener noreferrer" title="Starting from zero. Every command explained, every step reproducible — follow along even if you’ve never touched a security tool before.">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Cybersecurity Journey — Week 1: The CIA Triad &amp; My First Hands-On Steps" src="/cdn-cgi/image/format=auto,quality=85/media/b5034ef44eb18ad4fccdd834812462f5.jpg" loading="lazy">
+  <div class="link_preview_title">Cybersecurity Journey — Week 1: The CIA Triad &amp; My First Hands-On Steps</div>
+  <div class="link_preview_description">Starting from zero. Every command explained, every step reproducible — follow along even if you’ve never touched a security tool before.</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133775</guid>
+        <link>https://tg.toshiki.dev/posts/133775</link>
+        <title>⤷ Title: Password Attack Skill Assessment — Hack The Box (HTB)════════════════════════𐀪 Author: Aircon════════════════════════ⴵ Time: Sat, 26 Sep 2026 17:39:25 GMT════════════════════════⌗ Tags: #hackthebox_walkthrough #passwords #hackthebox_writeup #hackthebox</title>
+        <pubDate>Sat, 26 Sep 2026 18:04:33 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@Aircon/password-attack-skill-assessment-hack-the-box-htb-aea3c86e0a4a?source=rss------hackthebox_writeup-5" target="_blank" rel="noopener noreferrer" title="Password Attack Skill Assessment — Hack The Box (HTB)"><b>Password Attack Skill Assessment — Hack The Box (HTB)</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Aircon<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 17:39:25 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23hackthebox_walkthrough" title="#hackthebox_walkthrough">#hackthebox_walkthrough</a> <a href="/search?q=%23passwords" title="#passwords">#passwords</a> <a href="/search?q=%23hackthebox_writeup" title="#hackthebox_writeup">#hackthebox_writeup</a> <a href="/search?q=%23hackthebox" title="#hackthebox">#hackthebox</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@Aircon/password-attack-skill-assessment-hack-the-box-htb-aea3c86e0a4a?source=rss------hackthebox_writeup-5" target="_blank" rel="noopener noreferrer" title="Initial Intelligence">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="Password Attack Skill Assessment — Hack The Box (HTB)" src="/cdn-cgi/image/format=auto,quality=85/media/632c355907b1ec19215b21a349bfc67b.jpg" loading="lazy">
+  <div class="link_preview_title">Password Attack Skill Assessment — Hack The Box (HTB)</div>
+  <div class="link_preview_description">Initial Intelligence</div>
+</a>]]></description>
+      </item>
+      <item>
+        <guid>https://tg.toshiki.dev/posts/133774</guid>
+        <link>https://tg.toshiki.dev/posts/133774</link>
+        <title>⤷ Title: شرح غرفه Windows Logging for SOC════════════════════════𐀪 Author: Mohamed Rafik════════════════════════ⴵ Time: Sat, 26 Sep 2026 16:36:12 GMT════════════════════════⌗ Tags: #tryhackme #tryhackme_writeup #soc_analyst #tryhackme_walkthrough</title>
+        <pubDate>Sat, 26 Sep 2026 18:04:29 GMT</pubDate>
+        <description><![CDATA[⤷ <b>Title: </b><a href="https://medium.com/@morafiq456.a/%D8%B4%D8%B1%D8%AD-%D8%BA%D8%B1%D9%81%D9%87-windows-logging-for-soc-de4534b58a7a?source=rss------tryhackme-5" target="_blank" rel="noopener noreferrer" title="شرح غرفه Windows Logging for SOC"><b>شرح غرفه Windows Logging for SOC</b></a><br>════════════════════════<br>𐀪 <b>Author: </b>Mohamed Rafik<br>════════════════════════<br>ⴵ <b>Time: </b>Sat, 26 Sep 2026 16:36:12 GMT<br>════════════════════════<br>⌗ <b>Tags: </b><a href="/search?q=%23tryhackme" title="#tryhackme">#tryhackme</a> <a href="/search?q=%23tryhackme_writeup" title="#tryhackme_writeup">#tryhackme_writeup</a> <a href="/search?q=%23soc_analyst" title="#soc_analyst">#soc_analyst</a> <a href="/search?q=%23tryhackme_walkthrough" title="#tryhackme_walkthrough">#tryhackme_walkthrough</a><a class="tgme_widget_message_link_preview" href="https://medium.com/@morafiq456.a/%D8%B4%D8%B1%D8%AD-%D8%BA%D8%B1%D9%81%D9%87-windows-logging-for-soc-de4534b58a7a?source=rss------tryhackme-5" target="_blank" rel="noopener noreferrer" title="🧠 أول حاجة: إيه هو Windows Logging؟">
+  
+  <div class="link_preview_site_name accent_color">Medium</div>
+  <img class="link_preview_image" alt="شرح غرفه Windows Logging for SOC" src="/cdn-cgi/image/format=auto,quality=85/media/63ec1f49baa30d9cb1dbdbf99f6fdd06.jpg" loading="lazy">
+  <div class="link_preview_title">شرح غرفه Windows Logging for SOC</div>
+  <div class="link_preview_description"><i class="emoji"><b>🧠</b></i> أول حاجة: إيه هو Windows Logging؟</div>
+</a>]]></description>
+      </item>
+  </channel>
+</rss>
